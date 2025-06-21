@@ -2,7 +2,7 @@
 
 ---
 
-### `Always ready to learn`
+<h3><code><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76B8A&center=true&vCenter=true&width=435&lines=Always+ready+to+learn" alt="Typing SVG" /></code></h3>
 
 I'm a web developer and a competitive programming enthusiast. I love building responsive, interactive web applications using HTML, CSS, and JavaScript. I've also started competitive programming on CodeChef to enhance my problem-solving skills with C and C++. Recently, I’ve been diving into full-stack development with the MERN stack and strengthening my grasp of data structures and algorithms.
 
