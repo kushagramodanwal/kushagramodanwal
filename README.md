@@ -1,20 +1,25 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/kushagramodanwal">Kushagra Modanwal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b>Kushagra Modanwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a passionate **Computer Science** student who loves to build, explore, and create. I’m currently diving into full-stack development and sharpening my DSA & CP skills. I enjoy building real-world projects and solving logical problems.
+I am a passionate **Computer Science** student who loves to build, explore, and create.  
+I’m currently diving into full-stack development and sharpening my DSA & CP skills.  
+I enjoy building real-world projects and solving logical problems.
 
-- 📚 I’m currently learning:
-  - *React*, *MongoDB*, *Express.js*
-  - *DSA in C++*
-- 🚀 I’m starting my CP journey .
-- ✔ Always open to collaborate or help others.
--   Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music-
--   📫 Reach out to me at: <a href="mailto:kushagramodanwal@gmail.com">kushagramodanwal@gmail.com</a>
+📫 **Reach out to me at:** kushagramodanwal@gmail.com  
+
+---
+
+### 🌐 Social Links
+- **Gmail:** kushagramodanwal@gmail.com  
+- **LinkedIn:** [linkedin.com/in/kushagra-modanwal-bb3504319](https://www.linkedin.com/in/kushagra-modanwal-bb3504319)  
+- **Instagram:** [instagram.com/kushagramodanwal](https://www.instagram.com/kushagramodanwal)  
+- **Twitter:** [x.com/kushaark](https://x.com/kushaark)  
+
 <br>
 
 <!-- Profile Trophies -->
@@ -24,18 +29,9 @@ I am a passionate **Computer Science** student who loves to build, explore, and 
     </a>
 </div>   
 
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:kushagramodanwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/kushagra-modanwal-bb3504319/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/kushagramodanwal/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/kushaark"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-</div>
-
 <br>
 
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
@@ -51,8 +47,6 @@ I am a passionate **Computer Science** student who loves to build, explore, and 
 ###### Backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
- #### ML/DL -->
 
 ###### Database Management:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
@@ -71,7 +65,6 @@ I am a passionate **Computer Science** student who loves to build, explore, and 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 <br>
 <br>
-
 
 ---
 
