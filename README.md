@@ -63,9 +63,8 @@ I am working toward:
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kushagramodanwal&show_icons=true&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagramodanwal&layout=compact&hide_border=true" height="170"/>
+    
+<img src="https://streak-stats.demolab.com?user=kushagramodanwal&hide_border=true" />
 
 </div>
 
