@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>Hi, I'm Kushagra 👋</h1>
-<h3>AI/ML Learner | Systems Thinker | Competitive Programmer</h3>
+<h3>AI/ML Learner | Competitive Programmer</h3>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 - Multi-agent system design (LangGraph-style workflows)
 - RAG architecture (chunking, embeddings, retrieval, evaluation)
-- Prompt engineering & reasoning patterns (ReAct)
+- Prompt engineering & reasoning patterns
 - FastAPI-based AI deployment
 - Competitive programming & core DSA
 
@@ -38,8 +38,8 @@
 - **Linux / macOS**
 
 ### AI & ML
-- OpenAI APIs
 - LangChain
+- LangGraph
 - FAISS / Vector search
 - Basic PyTorch
 
@@ -48,31 +48,6 @@
 - Basic React
 - REST APIs
 
----
-
-## 🚀 Projects
-
-### 🔹 RegBot – AI Registration Assistant
-- Designed document parsing pipeline
-- Implemented regex-based field extraction
-- Structured multi-step validation workflow
-- Working toward LLM-based reasoning upgrade
-
-### 🔹 C++ Snake Game (OpenGL)
-- Built complete game logic from scratch
-- Implemented collision detection
-- Managed rendering loop and input handling
-- Strengthened memory & pointer understanding
-
-### 🔹 Competitive Programming Solutions
-- Solved DSA problems involving:
-  - Recursion
-  - Arrays & Structures
-  - STL
-  - Graph basics
-- Focus on logic clarity and time complexity
-
----
 
 ## 🧩 What I'm Building Toward
 
@@ -89,8 +64,8 @@ I am working toward:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kushagramodanwal&show_icons=true&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagramodanwal&layout=compact&hide_border=true" height="170"/>
 
 </div>
 
@@ -104,15 +79,6 @@ I am working toward:
 - Understand failure modes
 - Write clean logic before optimization
 
----
-
-## 📫 Connect
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (Add once ready)
-
----
-
 > Currently building. Consistently improving.
 ---
 
@@ -123,9 +89,6 @@ I am working toward:
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,fastapi,flask,react,nextjs,nodejs,express,mongodb,postgres,redis,firebase,docker,linux,git,github,githubactions,vercel,aws" />
 
 </div>
-
-## 📫 Contact:
-📧 **Email:** [kushagramodanwal@gmail.com](mailto:kushagramodanwal@gmail.com)
 
 ---
 
