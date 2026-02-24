@@ -2,34 +2,34 @@
 
 <div align="center">
 
-<h1>Hi, I'm Kushagra 👋</h1>
+<h1>Hi, I'm Kushagra Modanwal</h1>
 <h3>AI/ML Learner | Competitive Programmer</h3>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎯 Focused on **AI Systems, LLMs, and Retrieval-Augmented Generation**
-- 💻 Strong foundation in **C++, DSA, and problem solving**
-- 🔍 Currently learning **Agentic AI, RAG pipelines, and LLM orchestration**
-- 🧪 Building projects that combine **logic + AI + system design**
-- 🚀 Preparing for research, internships, and open-source contributions
+- Focused on **AI Systems, LLMs, and Retrieval-Augmented Generation**
+- Strong foundation in **C++, DSA, and problem solving**
+- Currently learning **Agentic AI, RAG pipelines, and LLM orchestration**
+- Building projects that combine **logic + AI + system design**
+- Preparing for research, internships, and open-source contributions
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
 - Multi-agent system design (LangGraph-style workflows)
 - RAG architecture (chunking, embeddings, retrieval, evaluation)
-- Prompt engineering & reasoning patterns
+- Prompt engineering and reasoning patterns
 - FastAPI-based AI deployment
-- Competitive programming & core DSA
+- Competitive programming and core DSA
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Core
 - **C++**
@@ -48,8 +48,9 @@
 - Basic React
 - REST APIs
 
+---
 
-## 🧩 What I'm Building Toward
+## What I'm Building Toward
 
 I am working toward:
 
@@ -60,7 +61,7 @@ I am working toward:
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
     
@@ -70,7 +71,7 @@ I am working toward:
 
 ---
 
-## 📌 Learning Philosophy
+## Learning Philosophy
 
 - Build > Consume
 - Systems > Tutorials
@@ -78,10 +79,11 @@ I am working toward:
 - Understand failure modes
 - Write clean logic before optimization
 
-> Currently building. Consistently improving.
+Currently building. Consistently improving.
+
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -91,17 +93,18 @@ I am working toward:
 
 ---
 
-## 🌐 Social Links:
-- **Gmail:** [kushagramodanwal@gmail.com](mailto:kushagramodanwal@gmail.com)  
-- **LinkedIn:** [https://linkedin.com/in/kushagra-modanwal-bb3504319](https://linkedin.com/in/kushagra-modanwal-bb3504319)  
-- **Instagram:** [https://instagram.com/kushagramodanwal](https://instagram.com/kushagramodanwal)  
-- **Twitter (X):** [https://x.com/kushaark](https://x.com/kushaark)
+## Social Links
+
+- Gmail: [kushagramodanwal@gmail.com](mailto:kushagramodanwal@gmail.com)  
+- LinkedIn: https://linkedin.com/in/kushagra-modanwal-bb3504319  
+- Instagram: https://instagram.com/kushagramodanwal  
+- Twitter (X): https://x.com/kushaark  
 
 ---
 
 <div align="center">
-    <a href="mailto:kushagramodanwal@gmail.com">📧 Email Me</a> •
-    <a href="https://linkedin.com/in/kushagra-modanwal-bb3504319">💼 LinkedIn</a> •
-    <a href="https://instagram.com/kushagramodanwal">📷 Instagram</a> •
-    <a href="https://x.com/kushaark">🐦 Twitter</a>
+    <a href="mailto:kushagramodanwal@gmail.com">Email</a> •
+    <a href="https://linkedin.com/in/kushagra-modanwal-bb3504319">LinkedIn</a> •
+    <a href="https://instagram.com/kushagramodanwal">Instagram</a> •
+    <a href="https://x.com/kushaark">Twitter</a>
 </div>
