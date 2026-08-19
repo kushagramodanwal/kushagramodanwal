@@ -1,69 +1,69 @@
-# Hi, I'm Kushagra Modanwal 👋
+# hi, i'm kushagra modanwal 👋
 
-### Full Stack Developer | MERN | C++ | DSA
+### full stack developer | mern | c++ | dsa
 
-I'm a B.Tech Information Technology student passionate about building scalable web applications and continuously improving my problem-solving skills through Data Structures and Algorithms.
+i'm a b.tech information technology student passionate about building scalable web applications and continuously improving my problem-solving skills through data structures and algorithms.
 
-Currently, I'm focused on backend development, modern React applications, and exploring AI-powered web applications.
-
----
-
-##  About Me
-
-- Building full-stack applications using the MERN stack
-- Currently learning Next.js, TypeScript, and AI integration
-- Solving DSA problems regularly in C++
-- Interested in backend engineering and system design
-- Open to internships, open source, and collaboration
+currently, i'm focused on backend development, modern react applications, and exploring ai-powered web applications.
 
 ---
 
-## Tech Stack
+## about me
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- building full-stack applications using the mern stack
+- currently learning next.js, typescript, and ai integration
+- solving dsa problems regularly in c++
+- interested in backend engineering and system design
+- open to internships, open source, and collaboration
 
 ---
 
-##  Current Focus
+## tech stack
 
-- Backend Development
-- REST APIs
-- Authentication & Authorization
-- React & Next.js
-- TypeScript
-- System Design Fundamentals
-- DSA & Competitive Programming
+### languages
+
+![c++](https://img.shields.io/badge/c++-00599c?style=flat&logo=c%2b%2b&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![python](https://img.shields.io/badge/python-3776ab?style=flat&logo=python&logoColor=white)
+
+### frontend
+
+![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61dafb)
+![next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white)
+![tailwind css](https://img.shields.io/badge/tailwindcss-06b6d4?style=flat&logo=tailwind-css&logoColor=white)
+
+### backend
+
+![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
+![express.js](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
+
+### database
+
+![mongodb](https://img.shields.io/badge/mongodb-47a248?style=flat&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479a1?style=flat&logo=mysql&logoColor=white)
+
+### tools
+
+![git](https://img.shields.io/badge/git-f05032?style=flat&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![vs code](https://img.shields.io/badge/vs_code-007acc?style=flat&logo=visual-studio-code&logoColor=white)
+![linux](https://img.shields.io/badge/linux-fcc624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-##  GitHub Stats
+## current focus
+
+- backend development
+- rest apis
+- authentication & authorization
+- react & next.js
+- typescript
+- system design fundamentals
+- dsa & competitive programming
+
+---
+
+## github stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagramodanwal" />
@@ -71,11 +71,12 @@ Currently, I'm focused on backend development, modern React applications, and ex
 
 ---
 
-## Connect With Me
+## connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-modanwal-bb3504319)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagramodanwal@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-modanwal-bb3504319)
+
+[![gmail](https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagramodanwal@gmail.com)
 
 ---
 
-> Learning by building. Improving one project at a time.
+> learning by building. improving one project at a time.
