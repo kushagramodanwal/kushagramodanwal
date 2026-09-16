@@ -4,7 +4,7 @@
 
 i'm a b.tech information technology student passionate about building scalable web applications and continuously improving my problem-solving skills through data structures and algorithms.
 
-currently, i'm focused on backend development, modern react applications, and contributing to open-source.
+currently, i'm focused on backend development and contributing to open-source.
 
 ---
 
