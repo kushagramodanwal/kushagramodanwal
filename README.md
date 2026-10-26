@@ -61,7 +61,7 @@ A hiring platform built around independently deployable services and inter-servi
 
 **Tech:** Node.js, TypeScript, Microservices, gRPC, Docker, JWT
 
-[View Repository](https://github.com/)
+[View Repository]([https://github.com/](https://github.com/kushagramodanwal/Assessly))
 
 ### 2. Lumen AI — RAG Support Agent
 An AI-powered support backend that retrieves relevant document context and routes uncertain answers for escalation.
@@ -72,7 +72,7 @@ An AI-powered support backend that retrieves relevant document context and route
 
 **Tech:** Python, FastAPI, LangChain, RAG, FAISS, LLMs
 
-[View Repository](https://github.com/)
+[View Repository]([https://github.com/](https://github.com/kushagramodanwal/lumen-ai))
 
 ### 3. Payment Ledger System — Wallet & Transfer Backend
 A financial backend focused on transaction integrity, concurrency, and safe payment retries.
@@ -84,7 +84,7 @@ A financial backend focused on transaction integrity, concurrency, and safe paym
 
 **Tech:** Python, FastAPI, PostgreSQL, SQL Transactions, JWT, k6
 
-[View Repository](https://github.com/)
+[View Repository]([https://github.com/](https://github.com/kushagramodanwal/payment-ledger))
 
 ---
 
