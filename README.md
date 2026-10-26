@@ -1,27 +1,108 @@
-# hi, i'm kushagra modanwal 
+# Hi, I'm Kushagra Modanwal
 
-### full stack developer | dsa
+### Backend Engineer | Full-Stack Developer | AI Systems
 
-i'm a b.tech information technology student passionate about building scalable web applications and continuously improving my problem-solving skills through data structures and algorithms.
+I'm a B.Tech Information Technology student at **MMMUT, Gorakhpur (2024–2028)**, focused on building scalable backend systems, distributed applications, and AI-powered solutions.
 
-currently, i'm focused on backend development and contributing to open-source.
+I enjoy solving engineering problems involving **microservices, database transactions, concurrency, and retrieval-augmented generation (RAG)**. I'm also active in open source and continuously improving my problem-solving skills through DSA.
+
+- **Currently focused on:** Backend engineering, system design, and AI infrastructure
+- **Experience:** Full Stack Intern at Urvija Technology
+- **Open source:** 7 merged pull requests
+- **Problem solving:** 500+ problems across coding platforms
+- **Achievement:** Qualified for the internal round of Smart India Hackathon 2026
 
 ---
 
 ## Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Go Fiber](https://img.shields.io/badge/Fiber-%2300599C.svg?style=plastic&logo=fiber&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Bun.js](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white) ![VectorDB](https://img.shields.io/badge/VectorDB-%23007ACC.svg?style=plastic&logo=vector&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-0082FC?style=plastic&logo=websocket&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-%23FF1F00.svg?style=plastic&logo=webrtc&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Cluster](https://img.shields.io/badge/Cluster-4B8BBE?style=plastic&logo=kubernetes&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=plastic&logo=serverless&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=plastic&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=plastic&logo=ai&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?style=plastic&logo=artificial-intelligence&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-%231572B6.svg?style=plastic&logo=rag&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23F05032.svg?style=plastic&logo=data-structures&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-%2343853D.svg?style=plastic&logo=algorithms&logoColor=white) ![System Architecture](https://img.shields.io/badge/System%20Architecture-%230E4F1F.svg?style=plastic&logo=system-architecture&logoColor=white)  
 
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+### Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-## connect with me
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-modanwal-bb3504319)
+### AI / ML
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-007ACC?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![Vector Search](https://img.shields.io/badge/Vector_Search-6A5ACD?style=flat)
 
-[![gmail](https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagramodanwal@gmail.com)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
+
+## Featured Projects
+
+### 1. Assessly — Microservices Hiring Platform
+A hiring platform built around independently deployable services and inter-service communication.
+
+- Designed a **7-service microservices architecture** covering authentication, jobs, assessments, evaluation, scoring, notifications, and API gateway.
+- Implemented gRPC communication between core services to reduce inter-service latency by approximately 35%.
+- Containerized services using Docker and Docker Compose for streamlined local development.
+- Implemented JWT authentication, role-based access control, and 15+ REST endpoints.
+
+**Tech:** Node.js, TypeScript, Microservices, gRPC, Docker, JWT
+
+[View Repository](https://github.com/)
+
+### 2. Lumen AI — RAG Support Agent
+An AI-powered support backend that retrieves relevant document context and routes uncertain answers for escalation.
+
+- Built a retrieval-augmented generation pipeline using PDF ingestion, chunking, embeddings, and FAISS vector search.
+- Integrated LangChain and FastAPI for LLM orchestration and agent tooling.
+- Implemented confidence-based routing to distinguish answerable queries from responses requiring escalation.
+
+**Tech:** Python, FastAPI, LangChain, RAG, FAISS, LLMs
+
+[View Repository](https://github.com/)
+
+### 3. Payment Ledger System — Wallet & Transfer Backend
+A financial backend focused on transaction integrity, concurrency, and safe payment retries.
+
+- Built wallet and transfer APIs using FastAPI and PostgreSQL.
+- Implemented ACID-safe transfers using SQL transactions and row-level locking to prevent race conditions.
+- Added idempotency controls to prevent duplicate transfers during retries.
+- Used k6 load testing to diagnose concurrency bottlenecks and validate 250+ concurrent transfers without data corruption.
+
+**Tech:** Python, FastAPI, PostgreSQL, SQL Transactions, JWT, k6
+
+[View Repository](https://github.com/)
+
+---
+
+## Problem Solving
+
+- Solved **500+ coding problems** across LeetCode, CodeChef, and other platforms.
+- Practice topics include data structures, algorithms, dynamic programming, graphs, and problem-solving patterns.
+- Focused on improving solution correctness, complexity analysis, and implementation quality.
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-modanwal-bb3504319)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagramodanwal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+*Building reliable systems, learning by shipping, and contributing to open source.*
