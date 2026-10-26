@@ -7,9 +7,7 @@ I'm focused on building scalable backend systems, distributed applications, and 
 I enjoy solving engineering problems involving **microservices, database transactions, concurrency, and retrieval-augmented generation (RAG)**. I'm also active in open source and continuously improving my problem-solving skills through DSA.
 
 - **Currently focused on:** Backend engineering, system design, and AI infrastructure
-- **Experience:** Full Stack Intern at Urvija Technology
 - **Problem solving:** 500+ problems across coding platforms
-- **Achievement:** Qualified for the internal round of Smart India Hackathon 2026
 
 ---
 
