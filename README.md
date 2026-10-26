@@ -48,45 +48,45 @@ I enjoy solving engineering problems involving **microservices, database transac
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
-
 ## Featured Projects
 
 ### 1. Assessly — Microservices Hiring Platform
+
 A hiring platform built around independently deployable services and inter-service communication.
 
 - Designed a **7-service microservices architecture** covering authentication, jobs, assessments, evaluation, scoring, notifications, and API gateway.
-- Implemented gRPC communication between core services to reduce inter-service latency by approximately 35%.
+- Implemented gRPC communication between core services, reducing inter-service latency by approximately 35%.
 - Containerized services using Docker and Docker Compose for streamlined local development.
-- Implemented JWT authentication, role-based access control, and 15+ REST endpoints.
+- Implemented JWT authentication, role-based access control (RBAC), and 15+ REST endpoints.
 
 **Tech:** Node.js, TypeScript, Microservices, gRPC, Docker, JWT
 
-[View Repository]([https://github.com/](https://github.com/kushagramodanwal/Assessly))
+[View Repository](https://github.com/kushagramodanwal/Assessly)
 
 ### 2. Lumen AI — RAG Support Agent
+
 An AI-powered support backend that retrieves relevant document context and routes uncertain answers for escalation.
 
-- Built a retrieval-augmented generation pipeline using PDF ingestion, chunking, embeddings, and FAISS vector search.
+- Built a retrieval-augmented generation (RAG) pipeline using PDF ingestion, chunking, embeddings, and FAISS vector search.
 - Integrated LangChain and FastAPI for LLM orchestration and agent tooling.
 - Implemented confidence-based routing to distinguish answerable queries from responses requiring escalation.
 
 **Tech:** Python, FastAPI, LangChain, RAG, FAISS, LLMs
 
-[View Repository]([https://github.com/](https://github.com/kushagramodanwal/lumen-ai))
+[View Repository](https://github.com/kushagramodanwal/lumen-ai)
 
 ### 3. Payment Ledger System — Wallet & Transfer Backend
+
 A financial backend focused on transaction integrity, concurrency, and safe payment retries.
 
 - Built wallet and transfer APIs using FastAPI and PostgreSQL.
-- Implemented ACID-safe transfers using SQL transactions and row-level locking to prevent race conditions.
+- Implemented ACID-compliant transfers using SQL transactions and row-level locking to prevent race conditions.
 - Added idempotency controls to prevent duplicate transfers during retries.
 - Used k6 load testing to diagnose concurrency bottlenecks and validate 250+ concurrent transfers without data corruption.
 
 **Tech:** Python, FastAPI, PostgreSQL, SQL Transactions, JWT, k6
 
-[View Repository]([https://github.com/](https://github.com/kushagramodanwal/payment-ledger))
-
----
+[View Repository](https://github.com/kushagramodanwal/payment-ledger)
 
 ## Problem Solving
 
