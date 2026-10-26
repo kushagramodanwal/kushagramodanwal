@@ -2,7 +2,7 @@
 
 ### Backend Engineer | Full-Stack Developer | AI Systems
 
-I'm a B.Tech Information Technology student at **MMMUT, Gorakhpur (2024–2028)**, focused on building scalable backend systems, distributed applications, and AI-powered solutions.
+I'm focused on building scalable backend systems, distributed applications, and AI-powered solutions.
 
 I enjoy solving engineering problems involving **microservices, database transactions, concurrency, and retrieval-augmented generation (RAG)**. I'm also active in open source and continuously improving my problem-solving skills through DSA.
 
