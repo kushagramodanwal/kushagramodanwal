@@ -8,7 +8,6 @@ I enjoy solving engineering problems involving **microservices, database transac
 
 - **Currently focused on:** Backend engineering, system design, and AI infrastructure
 - **Experience:** Full Stack Intern at Urvija Technology
-- **Open source:** 7 merged pull requests
 - **Problem solving:** 500+ problems across coding platforms
 - **Achievement:** Qualified for the internal round of Smart India Hackathon 2026
 
