@@ -84,7 +84,7 @@ A financial backend focused on transaction integrity, concurrency, and safe paym
 - Added idempotency controls to prevent duplicate transfers during retries.
 - Used k6 load testing to diagnose concurrency bottlenecks and validate 250+ concurrent transfers without data corruption.
 
-**Tech:** Python, FastAPI, PostgreSQL, SQL Transactions, JWT, k6
+**Tech:** Javascript, Node.js, PostgreSQL, SQL Transactions, JWT, k6
 
 [View Repository](https://github.com/kushagramodanwal/payment-ledger)
 
